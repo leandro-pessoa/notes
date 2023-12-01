@@ -10,3 +10,5 @@ Aqui estão as seguintes funcionalidades do projeto:
 
 - `Adicionar lembrete`: Ao apertar no ícone de mais '+', aparece uma tela em que poderá digitar o título e o texto e, posteriormente, salvar ou pode simplesmente cancelar;
 - ``
+
+🚧 README não finalizado 🚧
