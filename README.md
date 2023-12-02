@@ -14,7 +14,7 @@ Aqui estão as seguintes funcionalidades do projeto:
 - `Adicionar lembrete`: Ao apertar no ícone de mais '+', aparece uma tela em que poderá digitar o título e o texto e, posteriormente, salvar ou pode simplesmente cancelar;
 - `Editar lembrete`: Clicando no ícone de lápis, abrirá uma tela em que o lembrete poderá ser editado ou cancelar a edição;
 - `Excluir lembrete`: Basta apertar no ícone de 'x' que uma tela de confirmação aparece;
--  `Dados salvos`: Mesmo após fechar o app, os lembretes continuam salvos graças à biblioteca do React Native chamada async storage
+-  `Dados salvos`: Mesmo após fechar o app, os lembretes continuam salvos graças à biblioteca do React Native chamada async storage.
 
 ## ⬇️ Download do projeto
 
