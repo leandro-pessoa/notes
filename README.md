@@ -18,4 +18,28 @@ Aqui estão as seguintes funcionalidades do projeto:
 
 ## ⬇️ Download do projeto
 
-Para realizar o download do projeto, clique <a href='' download>aqui</a>
+Para realizar o download do projeto, clique <a href='https://github.com/leandro-pessoa/notes/archive/refs/heads/main.zip' download>aqui</a>
+
+## 🛠️ Executando o projeto
+
+Realize os seguintes passos:
+
+- Faça o download e descompactação
+- Acesse a pasta no terminal
+- Execute o seguinte comando
+  ~~~~
+  npx react-native start
+  ~~~~
+
+## ⚛️ Tecnologias utilizadas
+
+As principais tecnologias utilizadas foram:
+
+- `React Native`
+- `Typescript`
+- `Redux`
+- `Styled-components`
+
+## :hurtrealbad: Desenvolvedor
+
+Desenvolvido por [Leandro Pessoa](https://github.com/leandro-pessoa)
