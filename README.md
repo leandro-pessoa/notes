@@ -1,7 +1,7 @@
 # 📑 Notes 
 
 <p>
-  <img src='https://github.com/leandro-pessoa/notes/assets/Screenshot_20231201_204254_Notes-240'>
+  <img src='https://github.com/leandro-pessoa/notes/blob/main/assets/Screenshot_20231201_204254_Notes-240.jpg'>
   <img src='https://github.com/leandro-pessoa/notes/assets/Screenshot_20231201_204319_Notes-240'>
 </p>
 
